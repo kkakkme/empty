@@ -1,0 +1,4 @@
+empty
+=====
+
+An empty repository
